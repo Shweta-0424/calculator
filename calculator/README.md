@@ -14,12 +14,12 @@ A calculator project built with React.
 
 ## Installation
 
-1. `git clone`
+1. `git clone https://github.com/Shweta-0424/calculator.git`
 
 2. `cd calculator`
 
 3. `npm install`
 
-4. `npm start`
+4. `npm run start or npm start`
 
 
